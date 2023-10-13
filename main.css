@@ -14,7 +14,7 @@
 }
 
 .content-table thead tr {
-    background-color: #009879;
+    background-color: #eb0029;
     color: #ffffff;
     text-align: left;
     font-weight: bold;
@@ -43,5 +43,5 @@
 }
 .content-table tbody td.Highlight {
     font-weight: bold;
-    color: #ff0000;
+    color: #eb0029;
 }
